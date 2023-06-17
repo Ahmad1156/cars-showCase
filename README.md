@@ -2,7 +2,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+--visit the deployed website :https://cars-show-case-beta.vercel.app/
+
 First, run the development server:
+
 
 ```bash
 npm run dev
